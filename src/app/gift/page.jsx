@@ -52,9 +52,7 @@ export default function GiftPage() {
         ) : (
           // Gift Content
           <div className="text-center max-w-2xl mx-auto animate-fade-in transform hover:scale-105 transition-transform duration-500">
-            <h1 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-pink-600 to-purple-600 bg-clip-text text-transparent mb-8">
-              Төрсөн өдрийн мэнд
-            </h1>
+            
             
             <div className="bg-white/90 backdrop-blur-sm border border-pink-100 rounded-2xl shadow-2xl p-12 mb-8 hover:shadow-pink-200 transition-all duration-500">
               <div className="text-6xl mb-8 animate-bounce transform hover:rotate-12 transition-transform duration-300 cursor-pointer">🎂</div>
