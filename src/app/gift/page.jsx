@@ -37,7 +37,7 @@ export default function GiftPage() {
           // Gift Box Section
           <div className="text-center animate-fade-in transform hover:scale-105 transition-transform duration-500">
             <h1 className="text-3xl md:text-5xl font-bold bg-gradient-to-r from-pink-600 to-purple-600 bg-clip-text text-transparent mb-4 tracking-wide">
-              Танд зориулсан бэлэг
+              Гүнж танд зориулсан бэлэг
             </h1>
             <div className="w-32 h-1 bg-gradient-to-r from-pink-500 to-purple-500 mx-auto mb-12 rounded-full animate-pulse"></div>
             
@@ -62,7 +62,7 @@ export default function GiftPage() {
               </h2>
               
               <p className="text-gray-600 leading-relaxed mb-8 font-light">
-              Өнөөдөр нэг л онцгой өдөр шиг санагдаад байна...
+              Маргааш нэг л онцгой өдөр шиг санагдаад байна...
 Чамайг инээмсэглэж, баяр хөөрөөр гэрэлтэхийг харах нь миний хамгийн сайхан бэлэг.
 Чамд сэтгэлээсээ хамгийн сайн сайхныг хүсье…
 Харин яг 00:00 цагт —
